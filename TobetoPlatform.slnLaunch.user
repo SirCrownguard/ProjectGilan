@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Yeni Profil",
+    "Projects": [
+      {
+        "Path": "TobetoPlatform.API\\TobetoPlatform.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TobetoPlatform.WebUI\\TobetoPlatform.WebUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

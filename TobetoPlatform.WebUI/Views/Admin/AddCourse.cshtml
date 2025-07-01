@@ -1,0 +1,30 @@
+﻿@model TobetoPlatform.Entities.Course
+
+@{
+    ViewData["Title"] = "Yeni Kurs Ekle";
+}
+
+<h1>Yeni Kurs Ekle</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddCourse">
+            <div class="form-group mb-2">
+                <label class="control-label">Kurs Adı</label>
+                <input asp-for="Name" class="form-control" />
+            </div>
+            <div class="form-group mb-2">
+                <label class="control-label">Açıklama</label>
+                <textarea asp-for="Description" class="form-control"></textarea>
+            </div>
+            <div class="form-group mb-2">
+                <label class="control-label">Fiyat</label>
+                <input asp-for="Price" class="form-control" />
+            </div>
+            <div class="form-group mt-3">
+                <input type="submit" value="Kaydet" class="btn btn-success" />
+                <a class="btn btn-secondary" asp-action="Index">Geri Dön</a>
+            </div>
+        </form>
+    </div>
+</div>

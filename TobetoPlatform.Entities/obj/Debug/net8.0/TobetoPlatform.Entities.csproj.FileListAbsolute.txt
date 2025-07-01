@@ -1,0 +1,12 @@
+C:\Users\sagla\source\repos\ProjectGilan\TobetoPlatform.Entities\bin\Debug\net8.0\TobetoPlatform.Entities.deps.json
+C:\Users\sagla\source\repos\ProjectGilan\TobetoPlatform.Entities\bin\Debug\net8.0\TobetoPlatform.Entities.dll
+C:\Users\sagla\source\repos\ProjectGilan\TobetoPlatform.Entities\bin\Debug\net8.0\TobetoPlatform.Entities.pdb
+C:\Users\sagla\source\repos\ProjectGilan\TobetoPlatform.Entities\obj\Debug\net8.0\TobetoPlatform.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagla\source\repos\ProjectGilan\TobetoPlatform.Entities\obj\Debug\net8.0\TobetoPlatform.Entities.AssemblyInfoInputs.cache
+C:\Users\sagla\source\repos\ProjectGilan\TobetoPlatform.Entities\obj\Debug\net8.0\TobetoPlatform.Entities.AssemblyInfo.cs
+C:\Users\sagla\source\repos\ProjectGilan\TobetoPlatform.Entities\obj\Debug\net8.0\TobetoPlatform.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sagla\source\repos\ProjectGilan\TobetoPlatform.Entities\obj\Debug\net8.0\TobetoPlatform.Entities.sourcelink.json
+C:\Users\sagla\source\repos\ProjectGilan\TobetoPlatform.Entities\obj\Debug\net8.0\TobetoPlatform.Entities.dll
+C:\Users\sagla\source\repos\ProjectGilan\TobetoPlatform.Entities\obj\Debug\net8.0\refint\TobetoPlatform.Entities.dll
+C:\Users\sagla\source\repos\ProjectGilan\TobetoPlatform.Entities\obj\Debug\net8.0\TobetoPlatform.Entities.pdb
+C:\Users\sagla\source\repos\ProjectGilan\TobetoPlatform.Entities\obj\Debug\net8.0\ref\TobetoPlatform.Entities.dll

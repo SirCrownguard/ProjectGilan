@@ -1,0 +1,6 @@
+@TobetoPlatform.API_HostAddress = http://localhost:5151
+
+GET {{TobetoPlatform.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
