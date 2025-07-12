@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TobetoPlatform.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a3698f8120e68fb5f7cd3e3f82c81c9888a8c59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6765077f4c31043d196d18e171fb2267ef5060f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TobetoPlatform.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TobetoPlatform.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
