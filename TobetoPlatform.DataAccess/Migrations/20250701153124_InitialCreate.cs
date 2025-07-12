@@ -23,7 +23,7 @@ namespace TobetoPlatform.DataAccess.Migrations
                     DeletedDate = table.Column<DateTime>(type: "datetime2", nullable: true),
                     IsActive = table.Column<bool>(type: "bit", nullable: false),
                     IsDeleted = table.Column<bool>(type: "bit", nullable: false)
-                },
+                },  
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Categories", x => x.Id);

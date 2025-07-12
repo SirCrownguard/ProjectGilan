@@ -1,20 +1,16 @@
 ﻿// Konum: TobetoPlatform.Entities/DTOs/CourseRequest.cs
 namespace TobetoPlatform.Entities.DTOs
 {
-    public class CourseRequest : BaseDto // Ortak 'id' için BaseDto'dan miras
+    // Artık BaseDto'dan miras ALMIYOR.
+    public class CourseRequest
     {
-        public string CategoryId { get; set; }
+        // CategoryId'nin veri tipini int yaptık, çünkü bu bir kimlik numarasıdır.
+        public int CategoryId { get; set; }
+
         public string Name { get; set; }
         public string Description { get; set; }
-        public string Price { get; set; }
 
-        public CourseRequest()
-        {
-            id = "0";
-            CategoryId = "0";
-            Name = "";
-            Description = "";
-            Price = "0";
-        }
+        // Price (fiyat) için en doğru tip decimal'dır. Metin (string) olarak tutulmamalıdır.
+        public decimal Price { get; set; }
     }
 }

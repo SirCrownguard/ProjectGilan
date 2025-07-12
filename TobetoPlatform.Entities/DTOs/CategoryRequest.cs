@@ -1,14 +1,9 @@
 ﻿// Konum: TobetoPlatform.Entities/DTOs/CategoryRequest.cs
 namespace TobetoPlatform.Entities.DTOs
 {
-    public class CategoryRequest : BaseDto // BaseDto'dan miras al
+    // Artık BaseDto'dan miras ALMIYOR. Sadece ihtiyacımız olan özellikler var.
+    public class CategoryRequest
     {
         public string Name { get; set; }
-
-        public CategoryRequest() // Constructor
-        {
-            id = "0"; // Default olarak string "0" verelim
-            Name = "";
-        }
     }
 }

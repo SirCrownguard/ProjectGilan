@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0FD5D63E-4891-4192-8E07-E76996893EF5}|TobetoPlatform.API\\TobetoPlatform.API.csproj|c:\\users\\sagla\\source\\repos\\projectgilan\\tobetoplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD5D63E-4891-4192-8E07-E76996893EF5}|TobetoPlatform.API\\TobetoPlatform.API.csproj|solutionrelative:tobetoplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6B27DB-F550-48EB-BA4A-7494BBEC7EA6}|TobetoPlatform.Entities\\TobetoPlatform.Entities.csproj|c:\\users\\sagla\\source\\repos\\projectgilan\\tobetoplatform.entities\\dtos\\courserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6B27DB-F550-48EB-BA4A-7494BBEC7EA6}|TobetoPlatform.Entities\\TobetoPlatform.Entities.csproj|solutionrelative:tobetoplatform.entities\\dtos\\courserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6B27DB-F550-48EB-BA4A-7494BBEC7EA6}|TobetoPlatform.Entities\\TobetoPlatform.Entities.csproj|c:\\users\\sagla\\source\\repos\\projectgilan\\tobetoplatform.entities\\dtos\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6B27DB-F550-48EB-BA4A-7494BBEC7EA6}|TobetoPlatform.Entities\\TobetoPlatform.Entities.csproj|solutionrelative:tobetoplatform.entities\\dtos\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04856E5B-D91C-429F-92F8-6A9F43A9ACEB}|TobetoPlatform.DataAccess\\TobetoPlatform.DataAccess.csproj|c:\\users\\sagla\\source\\repos\\projectgilan\\tobetoplatform.dataaccess\\migrations\\20250701153124_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04856E5B-D91C-429F-92F8-6A9F43A9ACEB}|TobetoPlatform.DataAccess\\TobetoPlatform.DataAccess.csproj|solutionrelative:tobetoplatform.dataaccess\\migrations\\20250701153124_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0FD5D63E-4891-4192-8E07-E76996893EF5}|TobetoPlatform.API\\TobetoPlatform.API.csproj|c:\\users\\sagla\\source\\repos\\projectgilan\\tobetoplatform.api\\controllers\\coursefaqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FD5D63E-4891-4192-8E07-E76996893EF5}|TobetoPlatform.API\\TobetoPlatform.API.csproj|solutionrelative:tobetoplatform.api\\controllers\\coursefaqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FD5D63E-4891-4192-8E07-E76996893EF5}|TobetoPlatform.API\\TobetoPlatform.API.csproj|c:\\users\\sagla\\source\\repos\\projectgilan\\tobetoplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FD5D63E-4891-4192-8E07-E76996893EF5}|TobetoPlatform.API\\TobetoPlatform.API.csproj|solutionrelative:tobetoplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7747069E-3B7E-46FF-8BE5-A5FEEB71391A}|TobetoPlatform.Business\\TobetoPlatform.Business.csproj|c:\\users\\sagla\\source\\repos\\projectgilan\\tobetoplatform.business\\services\\coursefaqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{7B6B27DB-F550-48EB-BA4A-7494BBEC7EA6}|TobetoPlatform.Entities\\TobetoPlatform.Entities.csproj|solutionrelative:tobetoplatform.entities\\tobetoplatform.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B6B27DB-F550-48EB-BA4A-7494BBEC7EA6}|TobetoPlatform.Entities\\TobetoPlatform.Entities.csproj|c:\\users\\sagla\\source\\repos\\projectgilan\\tobetoplatform.entities\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B6B27DB-F550-48EB-BA4A-7494BBEC7EA6}|TobetoPlatform.Entities\\TobetoPlatform.Entities.csproj|solutionrelative:tobetoplatform.entities\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0FD5D63E-4891-4192-8E07-E76996893EF5}|TobetoPlatform.API\\TobetoPlatform.API.csproj|c:\\users\\sagla\\source\\repos\\projectgilan\\tobetoplatform.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FD5D63E-4891-4192-8E07-E76996893EF5}|TobetoPlatform.API\\TobetoPlatform.API.csproj|solutionrelative:tobetoplatform.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -113,14 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7747069E-3B7E-46FF-8BE5-A5FEEB71391A}|TobetoPlatform.Business\\TobetoPlatform.Business.csproj|c:\\users\\sagla\\source\\repos\\projectgilan\\tobetoplatform.business\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7747069E-3B7E-46FF-8BE5-A5FEEB71391A}|TobetoPlatform.Business\\TobetoPlatform.Business.csproj|solutionrelative:tobetoplatform.business\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B6B27DB-F550-48EB-BA4A-7494BBEC7EA6}|TobetoPlatform.Entities\\TobetoPlatform.Entities.csproj|c:\\users\\sagla\\source\\repos\\projectgilan\\tobetoplatform.entities\\dtos\\courserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B6B27DB-F550-48EB-BA4A-7494BBEC7EA6}|TobetoPlatform.Entities\\TobetoPlatform.Entities.csproj|solutionrelative:tobetoplatform.entities\\dtos\\courserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B6B27DB-F550-48EB-BA4A-7494BBEC7EA6}|TobetoPlatform.Entities\\TobetoPlatform.Entities.csproj|c:\\users\\sagla\\source\\repos\\projectgilan\\tobetoplatform.entities\\dtos\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B6B27DB-F550-48EB-BA4A-7494BBEC7EA6}|TobetoPlatform.Entities\\TobetoPlatform.Entities.csproj|solutionrelative:tobetoplatform.entities\\dtos\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B6B27DB-F550-48EB-BA4A-7494BBEC7EA6}|TobetoPlatform.Entities\\TobetoPlatform.Entities.csproj|c:\\users\\sagla\\source\\repos\\projectgilan\\tobetoplatform.entities\\abstract\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -235,24 +231,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "20250701153124_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.DataAccess\\Migrations\\20250701153124_InitialCreate.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.DataAccess\\Migrations\\20250701153124_InitialCreate.cs",
               "ToolTip": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.DataAccess\\Migrations\\20250701153124_InitialCreate.cs",
               "RelativeToolTip": "TobetoPlatform.DataAccess\\Migrations\\20250701153124_InitialCreate.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwBkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwBkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T15:31:24.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseFaqRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\DTOs\\CourseFaqRequest.cs",
+              "RelativeDocumentMoniker": "TobetoPlatform.Entities\\DTOs\\CourseFaqRequest.cs",
+              "ToolTip": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\DTOs\\CourseFaqRequest.cs",
+              "RelativeToolTip": "TobetoPlatform.Entities\\DTOs\\CourseFaqRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T15:19:57.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TobetoPlatformDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.DataAccess\\TobetoPlatformDbContext.cs",
+              "RelativeDocumentMoniker": "TobetoPlatform.DataAccess\\TobetoPlatformDbContext.cs",
+              "ToolTip": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.DataAccess\\TobetoPlatformDbContext.cs",
+              "RelativeToolTip": "TobetoPlatform.DataAccess\\TobetoPlatformDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:19:32.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\Instructor.cs",
+              "RelativeDocumentMoniker": "TobetoPlatform.Entities\\Instructor.cs",
+              "ToolTip": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\Instructor.cs",
+              "RelativeToolTip": "TobetoPlatform.Entities\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:44:29.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\DTOs\\CategoryRequest.cs",
+              "RelativeDocumentMoniker": "TobetoPlatform.Entities\\DTOs\\CategoryRequest.cs",
+              "ToolTip": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\DTOs\\CategoryRequest.cs",
+              "RelativeToolTip": "TobetoPlatform.Entities\\DTOs\\CategoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:25:26.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CourseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\DTOs\\CourseRequest.cs",
+              "RelativeDocumentMoniker": "TobetoPlatform.Entities\\DTOs\\CourseRequest.cs",
+              "ToolTip": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\DTOs\\CourseRequest.cs",
+              "RelativeToolTip": "TobetoPlatform.Entities\\DTOs\\CourseRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:32:02.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.API\\Program.cs",
+              "RelativeDocumentMoniker": "TobetoPlatform.API\\Program.cs",
+              "ToolTip": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.API\\Program.cs",
+              "RelativeToolTip": "TobetoPlatform.API\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwD8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:02:36.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseFaqController.cs",
+              "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.API\\Controllers\\CourseFaqController.cs",
+              "RelativeDocumentMoniker": "TobetoPlatform.API\\Controllers\\CourseFaqController.cs",
+              "ToolTip": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.API\\Controllers\\CourseFaqController.cs",
+              "RelativeToolTip": "TobetoPlatform.API\\Controllers\\CourseFaqController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T15:22:32.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "20250701152851_AddCourseFaqTable.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.DataAccess\\Migrations\\20250701152851_AddCourseFaqTable.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.DataAccess\\Migrations\\20250701152851_AddCourseFaqTable.cs",
@@ -265,54 +348,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "CourseFaqController.cs",
-              "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.API\\Controllers\\CourseFaqController.cs",
-              "RelativeDocumentMoniker": "TobetoPlatform.API\\Controllers\\CourseFaqController.cs",
-              "ToolTip": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.API\\Controllers\\CourseFaqController.cs",
-              "RelativeToolTip": "TobetoPlatform.API\\Controllers\\CourseFaqController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T15:22:32.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CourseFaqRequest.cs",
-              "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\DTOs\\CourseFaqRequest.cs",
-              "RelativeDocumentMoniker": "TobetoPlatform.Entities\\DTOs\\CourseFaqRequest.cs",
-              "ToolTip": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\DTOs\\CourseFaqRequest.cs",
-              "RelativeToolTip": "TobetoPlatform.Entities\\DTOs\\CourseFaqRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T15:19:57.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TobetoPlatformDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.DataAccess\\TobetoPlatformDbContext.cs",
-              "RelativeDocumentMoniker": "TobetoPlatform.DataAccess\\TobetoPlatformDbContext.cs",
-              "ToolTip": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.DataAccess\\TobetoPlatformDbContext.cs",
-              "RelativeToolTip": "TobetoPlatform.DataAccess\\TobetoPlatformDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T17:19:32.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\Instructor.cs",
-              "RelativeDocumentMoniker": "TobetoPlatform.Entities\\Instructor.cs",
-              "ToolTip": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\Instructor.cs",
-              "RelativeToolTip": "TobetoPlatform.Entities\\Instructor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T13:44:29.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\Category.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Entities\\Category.cs",
@@ -324,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\Course.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Entities\\Course.cs",
@@ -336,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\Role.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Entities\\Role.cs",
@@ -348,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\User.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Entities\\User.cs",
@@ -360,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\UserRole.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Entities\\UserRole.cs",
@@ -372,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "CourseFaqService.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Business\\Services\\CourseFaqService.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Business\\Services\\CourseFaqService.cs",
@@ -384,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ICourseFaqService.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Business\\Abstract\\ICourseFaqService.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Business\\Abstract\\ICourseFaqService.cs",
@@ -396,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "CourseFaq.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\Concrete\\CourseFaq.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Entities\\Concrete\\CourseFaq.cs",
@@ -408,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "SeedDatabase.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.WebUI\\Data\\SeedDatabase.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.WebUI\\Data\\SeedDatabase.cs",
@@ -420,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "TobetoPlatform.Business.csproj",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Business\\TobetoPlatform.Business.csproj",
               "RelativeDocumentMoniker": "TobetoPlatform.Business\\TobetoPlatform.Business.csproj",
@@ -432,19 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.API\\Program.cs",
-              "RelativeDocumentMoniker": "TobetoPlatform.API\\Program.cs",
-              "ToolTip": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.API\\Program.cs",
-              "RelativeToolTip": "TobetoPlatform.API\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAwwCoAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T14:02:36.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Business\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Business\\Services\\CategoryService.cs",
@@ -456,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "CourseService.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Business\\Services\\CourseService.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Business\\Services\\CourseService.cs",
@@ -468,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ICourseService.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Business\\Abstract\\ICourseService.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Business\\Abstract\\ICourseService.cs",
@@ -480,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Business\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Business\\Services\\AuthService.cs",
@@ -492,19 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BaseDto.cs",
-              "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\DTOs\\BaseDto.cs",
-              "RelativeDocumentMoniker": "TobetoPlatform.Entities\\DTOs\\BaseDto.cs",
-              "ToolTip": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\DTOs\\BaseDto.cs",
-              "RelativeToolTip": "TobetoPlatform.Entities\\DTOs\\BaseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T14:32:16.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.API\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.API\\Controllers\\CoursesController.cs",
@@ -516,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "ReturnRequestResult.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Core\\Utilities\\Results\\ReturnRequestResult.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Core\\Utilities\\Results\\ReturnRequestResult.cs",
@@ -528,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.API\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.API\\Controllers\\CategoriesController.cs",
@@ -540,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "TobetoPlatform.Entities.csproj",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\TobetoPlatform.Entities.csproj",
               "RelativeDocumentMoniker": "TobetoPlatform.Entities\\TobetoPlatform.Entities.csproj",
@@ -552,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Business\\Abstract\\ICategoryService.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Business\\Abstract\\ICategoryService.cs",
@@ -564,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Business\\Abstract\\IAuthService.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Business\\Abstract\\IAuthService.cs",
@@ -576,31 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CourseRequest.cs",
-              "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\DTOs\\CourseRequest.cs",
-              "RelativeDocumentMoniker": "TobetoPlatform.Entities\\DTOs\\CourseRequest.cs",
-              "ToolTip": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\DTOs\\CourseRequest.cs",
-              "RelativeToolTip": "TobetoPlatform.Entities\\DTOs\\CourseRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T14:32:02.076Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "CategoryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\DTOs\\CategoryRequest.cs",
-              "RelativeDocumentMoniker": "TobetoPlatform.Entities\\DTOs\\CategoryRequest.cs",
-              "ToolTip": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\DTOs\\CategoryRequest.cs",
-              "RelativeToolTip": "TobetoPlatform.Entities\\DTOs\\CategoryRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T14:25:26.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\Abstract\\BaseEntity.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Entities\\Abstract\\BaseEntity.cs",
@@ -612,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.API\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.API\\Controllers\\UsersController.cs",
@@ -624,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "20250701124004_AddCategoryCourseRelation.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.DataAccess\\Migrations\\20250701124004_AddCategoryCourseRelation.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.DataAccess\\Migrations\\20250701124004_AddCategoryCourseRelation.cs",
@@ -636,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.WebUI\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.WebUI\\Controllers\\AdminController.cs",
@@ -648,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.WebUI\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.WebUI\\Controllers\\HomeController.cs",
@@ -660,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "UserForRegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\DTOs\\UserForRegisterDto.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Entities\\DTOs\\UserForRegisterDto.cs",
@@ -672,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "UserForLoginDto.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Entities\\DTOs\\UserForLoginDto.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Entities\\DTOs\\UserForLoginDto.cs",
@@ -684,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.API\\Controllers\\AuthController.cs",
@@ -696,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.WebUI\\appsettings.json",
               "RelativeDocumentMoniker": "TobetoPlatform.WebUI\\appsettings.json",
@@ -708,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.WebUI\\Program.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.WebUI\\Program.cs",
@@ -720,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "TobetoPlatform.API.csproj",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.API\\TobetoPlatform.API.csproj",
               "RelativeDocumentMoniker": "TobetoPlatform.API\\TobetoPlatform.API.csproj",
@@ -732,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.WebUI\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.WebUI\\Models\\ErrorViewModel.cs",
@@ -744,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.WebUI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.WebUI\\Controllers\\AuthController.cs",
@@ -756,7 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "DataResult.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Core\\Utilities\\Results\\DataResult.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Core\\Utilities\\Results\\DataResult.cs",
@@ -768,7 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "IDataResult.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Core\\Utilities\\Results\\IDataResult.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Core\\Utilities\\Results\\IDataResult.cs",
@@ -780,7 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Core\\Utilities\\Results\\Result.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Core\\Utilities\\Results\\Result.cs",
@@ -792,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "IResult.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Core\\Utilities\\Results\\IResult.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.Core\\Utilities\\Results\\IResult.cs",
@@ -804,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "TobetoPlatform.DataAccess.csproj",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.DataAccess\\TobetoPlatform.DataAccess.csproj",
               "RelativeDocumentMoniker": "TobetoPlatform.DataAccess\\TobetoPlatform.DataAccess.csproj",
@@ -816,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.API\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.API\\WeatherForecast.cs",
@@ -828,7 +815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "TobetoPlatform.Core.csproj",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.Core\\TobetoPlatform.Core.csproj",
               "RelativeDocumentMoniker": "TobetoPlatform.Core\\TobetoPlatform.Core.csproj",
@@ -840,7 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "TobetoPlatform.WebUI.csproj",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.WebUI\\TobetoPlatform.WebUI.csproj",
               "RelativeDocumentMoniker": "TobetoPlatform.WebUI\\TobetoPlatform.WebUI.csproj",
@@ -852,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 51,
               "Title": "UserViewModel.cs",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.WebUI\\Models\\UserViewModel.cs",
               "RelativeDocumentMoniker": "TobetoPlatform.WebUI\\Models\\UserViewModel.cs",
@@ -864,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 50,
               "Title": "UserManagement.cshtml",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.WebUI\\Views\\Admin\\UserManagement.cshtml",
               "RelativeDocumentMoniker": "TobetoPlatform.WebUI\\Views\\Admin\\UserManagement.cshtml",
@@ -876,7 +863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 52,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\sagla\\source\\repos\\ProjectGilan\\TobetoPlatform.WebUI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TobetoPlatform.WebUI\\Views\\Shared\\_Layout.cshtml",
@@ -888,7 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 54,
               "Title": "dbo.Users.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TobetoPlatformDb/True/SqlTable/dbo.Users.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TobetoPlatformDb/True/SqlTable/dbo.Users.sql",
@@ -897,7 +884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 55,
               "Title": "dbo.Roles.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TobetoPlatformDb/True/SqlTable/dbo.Roles.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TobetoPlatformDb/True/SqlTable/dbo.Roles.sql",
@@ -906,7 +893,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 53,
               "Title": "dbo.UserRoles.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TobetoPlatformDb/True/SqlTable/dbo.UserRoles.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TobetoPlatformDb/True/SqlTable/dbo.UserRoles.sql",
